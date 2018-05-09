@@ -3,9 +3,6 @@
  *
  *  Written by: Mortaza Seydi - Zanjan University - Spring 2018
  *
- *  Assignment 3
- *  Exercise 3
- *
  */
 
 import java.util.Scanner;
